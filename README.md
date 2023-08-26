@@ -1,4 +1,4 @@
-# InventoryManagementSystem
+# Inventory Management System
 Developed a comprehensive inventory management system utilizing Python and SQLite, showcasing proficiency in database management and programming. Designed an intuitive command-line interface that allowed users to interact with the system efficiently. 
 basic inventory management system using Python and SQLite involves designing a simple database to store item information and building a command-line interface for users to interact with the system. Here's a step-by-step guide to help you get started:
 
